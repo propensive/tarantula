@@ -49,7 +49,7 @@
       "id": "tarantula/core",
       "links": ["scintillate/core", "cataract/core", "guillotine/core", "euphemism/core", "honeycomb/core"],
       "sources": ["src/core"],
-      "version": "0.2.0",
+      "version": "0.3.0",
       "docs": ["doc"]
     }
   ]
